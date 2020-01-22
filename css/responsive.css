@@ -48,7 +48,9 @@
     column-count: 1;
   }
   
-  .col-3 {
-    
+  .col-3, .col-2, .col-1 {
+    width: 100%;
+    left: 0;
+    float: none;
   }
 }
